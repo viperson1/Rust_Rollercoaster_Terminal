@@ -1,0 +1,11 @@
+[package]
+name = "console_test"
+version = "0.1.0"
+authors = ["viperson1 <jacksond224@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+console = "0.11.3"
+termcolor = "1.1.0"
